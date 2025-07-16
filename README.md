@@ -24,9 +24,9 @@ This project provides a fully customizable Date Range Picker component built usi
 
 🧩 <stronng>Component Structure</strong>
 
-customRangeDatepicker: Main datepicker component with calendar UI
+**customRangeDatepicker**: Main datepicker component with calendar UI
 
-parent: Wrapper/consumer component using lightning-input and displaying the date range
+**parent**: Wrapper/consumer component using lightning-input and displaying the date range
 
 
 
