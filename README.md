@@ -1,9 +1,10 @@
 
-📅 <stronng>Custom Range Datepicker for LWC</strong>
+📅 **Custom Range Datepicker for LWC**
 
 This project provides a fully customizable Date Range Picker component built using Lightning Web Components (LWC), designed to replicate the native SLDS (Salesforce Lightning Design System) styling and provide functionality for selecting start and end dates within a user-friendly calendar interface.
 
-✨<stronng> Features</strong>
+
+✨**Features**
 
 📆 Custom calendar UI inspired by SLDS datepicker
 
@@ -27,14 +28,16 @@ customRangeDatepicker: Main datepicker component with calendar UI
 
 parent: Wrapper/consumer component using lightning-input and displaying the date range
 
-📤 <stronng>Events</strong>
+
+
+📤 **Events**
 rangeapply: Fires when user clicks Apply, returns startDate and endDate
 
 rangeclear: Fires when user clicks Clear, resets the selection
 
 closepicker: Optional event for manual closure from parent
 
-🧠 <stronng>How it Works</strong>
+🧠 **How it Works**
 The calendar UI is rendered with dynamic month/year and weekday headers.
 
 Users can click to select a start date, and then an end date. Selected range is highlighted.
