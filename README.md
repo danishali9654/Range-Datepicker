@@ -46,18 +46,6 @@ Navigation allows moving across months and years.
 
 Selected range is formatted (DD-MM-YYYY) and shown in the parent input.
 
-Custom events are dispatched for parent to consume values.
-
-lwc/
-├── customRangeDatepicker/
-│   ├── customRangeDatepicker.js
-│   ├── customRangeDatepicker.html
-│   └── customRangeDatepicker.css (optional)
-├── parent/
-│   ├── parent.js
-│   └── parent.html
-
-
 🚀 <stronng>Installation</strong>
 Clone or download this repository
 
