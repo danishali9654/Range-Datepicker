@@ -14,7 +14,6 @@ This project provides a fully customizable Date Range Picker component built usi
 🔍 Clean parent-child component architecture</br>
 📦 Easily embeddable inside lightning-card, lightning-input, or custom UI</br>
 </br>
-</br>
 🧩 **Component Structure**</br>
 customrangedatepicker: Main datepicker component with calendar UI</br>
 parent: Wrapper/consumer component using lightning-input and displaying the date range</br>
